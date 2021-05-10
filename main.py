@@ -1,2 +1,2 @@
-# change this to print OK
-print ("Not done yet")
+# Add your Python code here. E.g.
+from microbit import *
