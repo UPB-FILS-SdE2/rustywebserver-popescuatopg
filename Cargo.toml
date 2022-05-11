@@ -1,5 +1,5 @@
 [package]
-name = "devoir-4-starter"
+name = "rustywebserver"
 version = "0.1.0"
 edition = "2021"
 

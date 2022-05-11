@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "devoir-4-starter"
+name = "rustywebserver"
 version = "0.1.0"
